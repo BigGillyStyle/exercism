@@ -45,7 +45,6 @@ class Complement
         end
 
         x.compare!
-
       end
 
     end
