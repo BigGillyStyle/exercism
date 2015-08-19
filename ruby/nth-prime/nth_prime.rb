@@ -28,7 +28,11 @@ class Fixnum
     upper_bound = Math.sqrt(self).to_i
     while i <= upper_bound do
       return false if self % i == 0
-      i += 1
+      if i < 3
+        i += 1
+      else
+        i += 2
+      end
     end
 
     return true
