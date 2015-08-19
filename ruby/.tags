@@ -1,0 +1,164 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+SquaresTest	/Users/apickler/projects/exercism/ruby/difference-of-squares/difference_of_squares_test.rb	/^class SquaresTest < MiniTest::Unit::TestCase$/;"	class	line:4
+test_square_of_sums_to_5	/Users/apickler/projects/exercism/ruby/difference-of-squares/difference_of_squares_test.rb	/^  def test_square_of_sums_to_5$/;"	method	line:6	class:SquaresTest
+test_sum_of_squares_to_5	/Users/apickler/projects/exercism/ruby/difference-of-squares/difference_of_squares_test.rb	/^  def test_sum_of_squares_to_5$/;"	method	line:10	class:SquaresTest
+test_difference_of_sums_to_5	/Users/apickler/projects/exercism/ruby/difference-of-squares/difference_of_squares_test.rb	/^  def test_difference_of_sums_to_5$/;"	method	line:14	class:SquaresTest
+test_square_of_sums_to_10	/Users/apickler/projects/exercism/ruby/difference-of-squares/difference_of_squares_test.rb	/^  def test_square_of_sums_to_10$/;"	method	line:18	class:SquaresTest
+test_sum_of_squares_to_10	/Users/apickler/projects/exercism/ruby/difference-of-squares/difference_of_squares_test.rb	/^  def test_sum_of_squares_to_10$/;"	method	line:22	class:SquaresTest
+test_difference_of_sums_to_10	/Users/apickler/projects/exercism/ruby/difference-of-squares/difference_of_squares_test.rb	/^  def test_difference_of_sums_to_10$/;"	method	line:26	class:SquaresTest
+test_square_of_sums_to_100	/Users/apickler/projects/exercism/ruby/difference-of-squares/difference_of_squares_test.rb	/^  def test_square_of_sums_to_100$/;"	method	line:30	class:SquaresTest
+test_sum_of_squares_to_100	/Users/apickler/projects/exercism/ruby/difference-of-squares/difference_of_squares_test.rb	/^  def test_sum_of_squares_to_100$/;"	method	line:34	class:SquaresTest
+test_difference_of_sums_to_100	/Users/apickler/projects/exercism/ruby/difference-of-squares/difference_of_squares_test.rb	/^  def test_difference_of_sums_to_100$/;"	method	line:38	class:SquaresTest
+Difference Of Squares	/Users/apickler/projects/exercism/ruby/difference-of-squares/README.md	/^# Difference Of Squares$/;"	function	line:1
+Source	/Users/apickler/projects/exercism/ruby/difference-of-squares/README.md	/^## Source$/;"	function	line:17
+Squares	/Users/apickler/projects/exercism/ruby/difference-of-squares/squares.rb	/^class Squares$/;"	class	line:1
+initialize	/Users/apickler/projects/exercism/ruby/difference-of-squares/squares.rb	/^  def initialize(total_num)$/;"	method	line:5	class:Squares
+sum_of_squares	/Users/apickler/projects/exercism/ruby/difference-of-squares/squares.rb	/^  def sum_of_squares$/;"	method	line:9	class:Squares
+square_of_sums	/Users/apickler/projects/exercism/ruby/difference-of-squares/squares.rb	/^  def square_of_sums$/;"	method	line:14	class:Squares
+difference	/Users/apickler/projects/exercism/ruby/difference-of-squares/squares.rb	/^  def difference$/;"	method	line:19	class:Squares
+num_array	/Users/apickler/projects/exercism/ruby/difference-of-squares/squares.rb	/^  def num_array$/;"	method	line:25	class:Squares
+Gigasecond	/Users/apickler/projects/exercism/ruby/gigasecond/gigasecond.rb	/^class Gigasecond$/;"	class	line:3
+from	/Users/apickler/projects/exercism/ruby/gigasecond/gigasecond.rb	/^  def self.from(date)$/;"	singleton method	line:5	class:Gigasecond
+GigasecondTest	/Users/apickler/projects/exercism/ruby/gigasecond/gigasecond_test.rb	/^class GigasecondTest < MiniTest::Unit::TestCase$/;"	class	line:6
+test_1	/Users/apickler/projects/exercism/ruby/gigasecond/gigasecond_test.rb	/^  def test_1$/;"	method	line:8	class:GigasecondTest
+test_2	/Users/apickler/projects/exercism/ruby/gigasecond/gigasecond_test.rb	/^  def test_2$/;"	method	line:13	class:GigasecondTest
+test_3	/Users/apickler/projects/exercism/ruby/gigasecond/gigasecond_test.rb	/^  def test_3$/;"	method	line:18	class:GigasecondTest
+test_yourself	/Users/apickler/projects/exercism/ruby/gigasecond/gigasecond_test.rb	/^  def test_yourself$/;"	method	line:23	class:GigasecondTest
+Gigasecond	/Users/apickler/projects/exercism/ruby/gigasecond/README.md	/^# Gigasecond$/;"	function	line:1
+Source	/Users/apickler/projects/exercism/ruby/gigasecond/README.md	/^## Source$/;"	function	line:8
+Getting Started	/Users/apickler/projects/exercism/ruby/hamming/GETTING_STARTED.md	/^# Getting Started$/;"	function	line:1
+Step 1	/Users/apickler/projects/exercism/ruby/hamming/GETTING_STARTED.md	/^## Step 1$/;"	function	line:9
+Step 2	/Users/apickler/projects/exercism/ruby/hamming/GETTING_STARTED.md	/^## Step 2$/;"	function	line:20
+Step 3	/Users/apickler/projects/exercism/ruby/hamming/GETTING_STARTED.md	/^## Step 3$/;"	function	line:47
+Step 4	/Users/apickler/projects/exercism/ruby/hamming/GETTING_STARTED.md	/^## Step 4$/;"	function	line:67
+Step 5	/Users/apickler/projects/exercism/ruby/hamming/GETTING_STARTED.md	/^## Step 5$/;"	function	line:88
+Step 6	/Users/apickler/projects/exercism/ruby/hamming/GETTING_STARTED.md	/^## Step 6$/;"	function	line:108
+Wash, Rinse, Repeat	/Users/apickler/projects/exercism/ruby/hamming/GETTING_STARTED.md	/^## Wash, Rinse, Repeat$/;"	function	line:123
+Submit	/Users/apickler/projects/exercism/ruby/hamming/GETTING_STARTED.md	/^## Submit$/;"	function	line:128
+Hamming	/Users/apickler/projects/exercism/ruby/hamming/hamming.rb	/^class Hamming$/;"	class	line:1
+compute	/Users/apickler/projects/exercism/ruby/hamming/hamming.rb	/^  def self.compute(str1, str2)$/;"	singleton method	line:3	class:Hamming
+HammingTest	/Users/apickler/projects/exercism/ruby/hamming/hamming_test.rb	/^class HammingTest < MiniTest::Unit::TestCase$/;"	class	line:4
+test_no_difference_between_identical_strands	/Users/apickler/projects/exercism/ruby/hamming/hamming_test.rb	/^  def test_no_difference_between_identical_strands$/;"	method	line:5	class:HammingTest
+test_complete_hamming_distance_of_for_single_nucleotide_strand	/Users/apickler/projects/exercism/ruby/hamming/hamming_test.rb	/^  def test_complete_hamming_distance_of_for_single_nucleotide_strand$/;"	method	line:9	class:HammingTest
+test_complete_hamming_distance_of_for_small_strand	/Users/apickler/projects/exercism/ruby/hamming/hamming_test.rb	/^  def test_complete_hamming_distance_of_for_small_strand$/;"	method	line:13	class:HammingTest
+test_small_hamming_distance	/Users/apickler/projects/exercism/ruby/hamming/hamming_test.rb	/^  def test_small_hamming_distance$/;"	method	line:17	class:HammingTest
+test_small_hamming_distance_in_longer_strand	/Users/apickler/projects/exercism/ruby/hamming/hamming_test.rb	/^  def test_small_hamming_distance_in_longer_strand$/;"	method	line:21	class:HammingTest
+test_ignores_extra_length_on_first_strand_when_longer	/Users/apickler/projects/exercism/ruby/hamming/hamming_test.rb	/^  def test_ignores_extra_length_on_first_strand_when_longer$/;"	method	line:25	class:HammingTest
+test_ignores_extra_length_on_other_strand_when_longer	/Users/apickler/projects/exercism/ruby/hamming/hamming_test.rb	/^  def test_ignores_extra_length_on_other_strand_when_longer$/;"	method	line:29	class:HammingTest
+test_large_hamming_distance	/Users/apickler/projects/exercism/ruby/hamming/hamming_test.rb	/^  def test_large_hamming_distance$/;"	method	line:33	class:HammingTest
+test_hamming_distance_in_very_long_strand	/Users/apickler/projects/exercism/ruby/hamming/hamming_test.rb	/^  def test_hamming_distance_in_very_long_strand$/;"	method	line:37	class:HammingTest
+Hamming	/Users/apickler/projects/exercism/ruby/hamming/README.md	/^# Hamming$/;"	function	line:1
+Source	/Users/apickler/projects/exercism/ruby/hamming/README.md	/^## Source$/;"	function	line:30
+Getting Started	/Users/apickler/projects/exercism/ruby/hello-world/GETTING_STARTED.md	/^# Getting Started$/;"	function	line:1
+Step 1	/Users/apickler/projects/exercism/ruby/hello-world/GETTING_STARTED.md	/^## Step 1$/;"	function	line:15
+Step 2	/Users/apickler/projects/exercism/ruby/hello-world/GETTING_STARTED.md	/^## Step 2$/;"	function	line:27
+Fixing the Error	/Users/apickler/projects/exercism/ruby/hello-world/GETTING_STARTED.md	/^### Fixing the Error$/;"	function	line:61
+Understanding Test Failures	/Users/apickler/projects/exercism/ruby/hello-world/GETTING_STARTED.md	/^### Understanding Test Failures$/;"	function	line:68
+Step 3	/Users/apickler/projects/exercism/ruby/hello-world/GETTING_STARTED.md	/^## Step 3$/;"	function	line:81
+Step 4	/Users/apickler/projects/exercism/ruby/hello-world/GETTING_STARTED.md	/^## Step 4$/;"	function	line:100
+Step 6	/Users/apickler/projects/exercism/ruby/hello-world/GETTING_STARTED.md	/^## Step 6$/;"	function	line:121
+Wash, Rinse, Repeat	/Users/apickler/projects/exercism/ruby/hello-world/GETTING_STARTED.md	/^## Wash, Rinse, Repeat$/;"	function	line:136
+Submit	/Users/apickler/projects/exercism/ruby/hello-world/GETTING_STARTED.md	/^## Submit$/;"	function	line:141
+HelloWorldTest	/Users/apickler/projects/exercism/ruby/hello-world/hello_world_test.rb	/^class HelloWorldTest < Minitest::Test$/;"	class	line:15
+test_no_name	/Users/apickler/projects/exercism/ruby/hello-world/hello_world_test.rb	/^  def test_no_name$/;"	method	line:16	class:HelloWorldTest
+test_sample_name	/Users/apickler/projects/exercism/ruby/hello-world/hello_world_test.rb	/^  def test_sample_name$/;"	method	line:22	class:HelloWorldTest
+test_other_sample_name	/Users/apickler/projects/exercism/ruby/hello-world/hello_world_test.rb	/^  def test_other_sample_name$/;"	method	line:29	class:HelloWorldTest
+test_no_strange_name	/Users/apickler/projects/exercism/ruby/hello-world/hello_world_test.rb	/^  def test_no_strange_name$/;"	method	line:36	class:HelloWorldTest
+Hello World	/Users/apickler/projects/exercism/ruby/hello-world/README.md	/^# Hello World$/;"	function	line:1
+Specification	/Users/apickler/projects/exercism/ruby/hello-world/README.md	/^## Specification$/;"	function	line:11
+Test-Driven Development	/Users/apickler/projects/exercism/ruby/hello-world/README.md	/^## Test-Driven Development$/;"	function	line:19
+A typical TDD workflow on Exercism:	/Users/apickler/projects/exercism/ruby/hello-world/README.md	/^### A typical TDD workflow on Exercism:$/;"	function	line:27
+Instructions	/Users/apickler/projects/exercism/ruby/hello-world/README.md	/^## Instructions$/;"	function	line:35
+Source	/Users/apickler/projects/exercism/ruby/hello-world/README.md	/^## Source$/;"	function	line:71
+Raindrops	/Users/apickler/projects/exercism/ruby/raindrops/raindrops.rb	/^class Raindrops$/;"	class	line:1
+convert	/Users/apickler/projects/exercism/ruby/raindrops/raindrops.rb	/^  def self.convert(int)$/;"	singleton method	line:3	class:Raindrops
+RaindropsTest	/Users/apickler/projects/exercism/ruby/raindrops/raindrops_test.rb	/^class RaindropsTest < MiniTest::Unit::TestCase$/;"	class	line:4
+test_1	/Users/apickler/projects/exercism/ruby/raindrops/raindrops_test.rb	/^  def test_1$/;"	method	line:6	class:RaindropsTest
+test_3	/Users/apickler/projects/exercism/ruby/raindrops/raindrops_test.rb	/^  def test_3$/;"	method	line:10	class:RaindropsTest
+test_5	/Users/apickler/projects/exercism/ruby/raindrops/raindrops_test.rb	/^  def test_5$/;"	method	line:14	class:RaindropsTest
+test_7	/Users/apickler/projects/exercism/ruby/raindrops/raindrops_test.rb	/^  def test_7$/;"	method	line:18	class:RaindropsTest
+test_6	/Users/apickler/projects/exercism/ruby/raindrops/raindrops_test.rb	/^  def test_6$/;"	method	line:22	class:RaindropsTest
+test_9	/Users/apickler/projects/exercism/ruby/raindrops/raindrops_test.rb	/^  def test_9$/;"	method	line:26	class:RaindropsTest
+test_10	/Users/apickler/projects/exercism/ruby/raindrops/raindrops_test.rb	/^  def test_10$/;"	method	line:30	class:RaindropsTest
+test_14	/Users/apickler/projects/exercism/ruby/raindrops/raindrops_test.rb	/^  def test_14$/;"	method	line:34	class:RaindropsTest
+test_15	/Users/apickler/projects/exercism/ruby/raindrops/raindrops_test.rb	/^  def test_15$/;"	method	line:38	class:RaindropsTest
+test_21	/Users/apickler/projects/exercism/ruby/raindrops/raindrops_test.rb	/^  def test_21$/;"	method	line:42	class:RaindropsTest
+test_25	/Users/apickler/projects/exercism/ruby/raindrops/raindrops_test.rb	/^  def test_25$/;"	method	line:46	class:RaindropsTest
+test_35	/Users/apickler/projects/exercism/ruby/raindrops/raindrops_test.rb	/^  def test_35$/;"	method	line:50	class:RaindropsTest
+test_49	/Users/apickler/projects/exercism/ruby/raindrops/raindrops_test.rb	/^  def test_49$/;"	method	line:54	class:RaindropsTest
+test_52	/Users/apickler/projects/exercism/ruby/raindrops/raindrops_test.rb	/^  def test_52$/;"	method	line:58	class:RaindropsTest
+test_105	/Users/apickler/projects/exercism/ruby/raindrops/raindrops_test.rb	/^  def test_105$/;"	method	line:62	class:RaindropsTest
+test_12121	/Users/apickler/projects/exercism/ruby/raindrops/raindrops_test.rb	/^  def test_12121$/;"	method	line:66	class:RaindropsTest
+Raindrops	/Users/apickler/projects/exercism/ruby/raindrops/README.md	/^# Raindrops$/;"	function	line:1
+Examples	/Users/apickler/projects/exercism/ruby/raindrops/README.md	/^## Examples$/;"	function	line:11
+Source	/Users/apickler/projects/exercism/ruby/raindrops/README.md	/^## Source$/;"	function	line:22
+Complement	/Users/apickler/projects/exercism/ruby/rna-transcription/complement.rb	/^class Complement$/;"	class	line:3
+of_dna	/Users/apickler/projects/exercism/ruby/rna-transcription/complement.rb	/^    def of_dna(dna_str)$/;"	method	line:16	class:Complement
+of_rna	/Users/apickler/projects/exercism/ruby/rna-transcription/complement.rb	/^    def of_rna(rna_str)$/;"	method	line:20	class:Complement
+of_dna2	/Users/apickler/projects/exercism/ruby/rna-transcription/complement.rb	/^    def of_dna2(dna_str)$/;"	method	line:24	class:Complement
+benchmark	/Users/apickler/projects/exercism/ruby/rna-transcription/complement.rb	/^    def benchmark$/;"	method	line:28	class:Complement
+ComplementTest	/Users/apickler/projects/exercism/ruby/rna-transcription/complement_test.rb	/^class ComplementTest < MiniTest::Unit::TestCase$/;"	class	line:4
+test_rna_complement_of_cytosine_is_guanine	/Users/apickler/projects/exercism/ruby/rna-transcription/complement_test.rb	/^  def test_rna_complement_of_cytosine_is_guanine$/;"	method	line:5	class:ComplementTest
+test_rna_complement_of_guanine_is_cytosine	/Users/apickler/projects/exercism/ruby/rna-transcription/complement_test.rb	/^  def test_rna_complement_of_guanine_is_cytosine$/;"	method	line:9	class:ComplementTest
+test_rna_complement_of_thymine_is_adenine	/Users/apickler/projects/exercism/ruby/rna-transcription/complement_test.rb	/^  def test_rna_complement_of_thymine_is_adenine$/;"	method	line:13	class:ComplementTest
+test_rna_complement_of_adenine_is_uracil	/Users/apickler/projects/exercism/ruby/rna-transcription/complement_test.rb	/^  def test_rna_complement_of_adenine_is_uracil$/;"	method	line:17	class:ComplementTest
+test_rna_complement	/Users/apickler/projects/exercism/ruby/rna-transcription/complement_test.rb	/^  def test_rna_complement$/;"	method	line:21	class:ComplementTest
+test_dna_complement_of_cytosine_is_guanine	/Users/apickler/projects/exercism/ruby/rna-transcription/complement_test.rb	/^  def test_dna_complement_of_cytosine_is_guanine$/;"	method	line:25	class:ComplementTest
+test_dna_complement_of_guanine_is_cytosine	/Users/apickler/projects/exercism/ruby/rna-transcription/complement_test.rb	/^  def test_dna_complement_of_guanine_is_cytosine$/;"	method	line:29	class:ComplementTest
+test_dna_complement_of_uracil_is_adenine	/Users/apickler/projects/exercism/ruby/rna-transcription/complement_test.rb	/^  def test_dna_complement_of_uracil_is_adenine$/;"	method	line:33	class:ComplementTest
+test_dna_complement_of_adenine_is_thymine	/Users/apickler/projects/exercism/ruby/rna-transcription/complement_test.rb	/^  def test_dna_complement_of_adenine_is_thymine$/;"	method	line:37	class:ComplementTest
+test_dna_complement	/Users/apickler/projects/exercism/ruby/rna-transcription/complement_test.rb	/^  def test_dna_complement$/;"	method	line:41	class:ComplementTest
+Rna Transcription	/Users/apickler/projects/exercism/ruby/rna-transcription/README.md	/^# Rna Transcription$/;"	function	line:1
+Source	/Users/apickler/projects/exercism/ruby/rna-transcription/README.md	/^## Source$/;"	function	line:22
+ComplementTest	/Users/apickler/projects/exercism/ruby/rna-transcription/rna_transcription_test.rb	/^class ComplementTest < Minitest::Test$/;"	class	line:6
+test_rna_complement_of_cytosine_is_guanine	/Users/apickler/projects/exercism/ruby/rna-transcription/rna_transcription_test.rb	/^  def test_rna_complement_of_cytosine_is_guanine$/;"	method	line:7	class:ComplementTest
+test_rna_complement_of_guanine_is_cytosine	/Users/apickler/projects/exercism/ruby/rna-transcription/rna_transcription_test.rb	/^  def test_rna_complement_of_guanine_is_cytosine$/;"	method	line:11	class:ComplementTest
+test_rna_complement_of_thymine_is_adenine	/Users/apickler/projects/exercism/ruby/rna-transcription/rna_transcription_test.rb	/^  def test_rna_complement_of_thymine_is_adenine$/;"	method	line:16	class:ComplementTest
+test_rna_complement_of_adenine_is_uracil	/Users/apickler/projects/exercism/ruby/rna-transcription/rna_transcription_test.rb	/^  def test_rna_complement_of_adenine_is_uracil$/;"	method	line:21	class:ComplementTest
+test_rna_complement	/Users/apickler/projects/exercism/ruby/rna-transcription/rna_transcription_test.rb	/^  def test_rna_complement$/;"	method	line:26	class:ComplementTest
+test_dna_complement_of_cytosine_is_guanine	/Users/apickler/projects/exercism/ruby/rna-transcription/rna_transcription_test.rb	/^  def test_dna_complement_of_cytosine_is_guanine$/;"	method	line:31	class:ComplementTest
+test_dna_complement_of_guanine_is_cytosine	/Users/apickler/projects/exercism/ruby/rna-transcription/rna_transcription_test.rb	/^  def test_dna_complement_of_guanine_is_cytosine$/;"	method	line:36	class:ComplementTest
+test_dna_complement_of_uracil_is_adenine	/Users/apickler/projects/exercism/ruby/rna-transcription/rna_transcription_test.rb	/^  def test_dna_complement_of_uracil_is_adenine$/;"	method	line:41	class:ComplementTest
+test_dna_complement_of_adenine_is_thymine	/Users/apickler/projects/exercism/ruby/rna-transcription/rna_transcription_test.rb	/^  def test_dna_complement_of_adenine_is_thymine$/;"	method	line:46	class:ComplementTest
+test_dna_complement	/Users/apickler/projects/exercism/ruby/rna-transcription/rna_transcription_test.rb	/^  def test_dna_complement$/;"	method	line:51	class:ComplementTest
+test_dna_raises_argument_error	/Users/apickler/projects/exercism/ruby/rna-transcription/rna_transcription_test.rb	/^  def test_dna_raises_argument_error$/;"	method	line:56	class:ComplementTest
+test_rna_raises_argument_error	/Users/apickler/projects/exercism/ruby/rna-transcription/rna_transcription_test.rb	/^  def test_rna_raises_argument_error$/;"	method	line:61	class:ComplementTest
+test_rna_raises_argument_error_on_completely_invalid_input	/Users/apickler/projects/exercism/ruby/rna-transcription/rna_transcription_test.rb	/^  def test_rna_raises_argument_error_on_completely_invalid_input$/;"	method	line:66	class:ComplementTest
+tes_dna_raises_argument_error_on_completely_invalid_input	/Users/apickler/projects/exercism/ruby/rna-transcription/rna_transcription_test.rb	/^  def tes_dna_raises_argument_error_on_completely_invalid_input$/;"	method	line:71	class:ComplementTest
+test_bookkeeping	/Users/apickler/projects/exercism/ruby/rna-transcription/rna_transcription_test.rb	/^  def test_bookkeeping$/;"	method	line:78	class:ComplementTest
+Robot Name	/Users/apickler/projects/exercism/ruby/robot-name/README.md	/^# Robot Name$/;"	function	line:1
+For bonus points	/Users/apickler/projects/exercism/ruby/robot-name/README.md	/^## For bonus points$/;"	function	line:15
+Source	/Users/apickler/projects/exercism/ruby/robot-name/README.md	/^## Source$/;"	function	line:27
+RobotTest	/Users/apickler/projects/exercism/ruby/robot-name/robot_name_test.rb	/^class RobotTest < MiniTest::Unit::TestCase$/;"	class	line:4
+test_has_name	/Users/apickler/projects/exercism/ruby/robot-name/robot_name_test.rb	/^  def test_has_name$/;"	method	line:5	class:RobotTest
+test_name_sticks	/Users/apickler/projects/exercism/ruby/robot-name/robot_name_test.rb	/^  def test_name_sticks$/;"	method	line:9	class:RobotTest
+test_different_robots_have_different_names	/Users/apickler/projects/exercism/ruby/robot-name/robot_name_test.rb	/^  def test_different_robots_have_different_names$/;"	method	line:16	class:RobotTest
+test_reset_name	/Users/apickler/projects/exercism/ruby/robot-name/robot_name_test.rb	/^  def test_reset_name$/;"	method	line:21	class:RobotTest
+Roman Numerals	/Users/apickler/projects/exercism/ruby/roman-numerals/README.md	/^# Roman Numerals$/;"	function	line:1
+Source	/Users/apickler/projects/exercism/ruby/roman-numerals/README.md	/^## Source$/;"	function	line:46
+RomanNumerals	/Users/apickler/projects/exercism/ruby/roman-numerals/roman.rb	/^module RomanNumerals$/;"	module	line:1
+to_roman	/Users/apickler/projects/exercism/ruby/roman-numerals/roman.rb	/^  def to_roman$/;"	method	line:3	class:RomanNumerals
+RomanTest	/Users/apickler/projects/exercism/ruby/roman-numerals/roman_numerals_test.rb	/^class RomanTest < MiniTest::Unit::TestCase$/;"	class	line:4
+test_1	/Users/apickler/projects/exercism/ruby/roman-numerals/roman_numerals_test.rb	/^  def test_1$/;"	method	line:6	class:RomanTest
+test_2	/Users/apickler/projects/exercism/ruby/roman-numerals/roman_numerals_test.rb	/^  def test_2$/;"	method	line:10	class:RomanTest
+test_3	/Users/apickler/projects/exercism/ruby/roman-numerals/roman_numerals_test.rb	/^  def test_3$/;"	method	line:14	class:RomanTest
+test_4	/Users/apickler/projects/exercism/ruby/roman-numerals/roman_numerals_test.rb	/^  def test_4$/;"	method	line:18	class:RomanTest
+test_5	/Users/apickler/projects/exercism/ruby/roman-numerals/roman_numerals_test.rb	/^  def test_5$/;"	method	line:22	class:RomanTest
+test_6	/Users/apickler/projects/exercism/ruby/roman-numerals/roman_numerals_test.rb	/^  def test_6$/;"	method	line:26	class:RomanTest
+test_9	/Users/apickler/projects/exercism/ruby/roman-numerals/roman_numerals_test.rb	/^  def test_9$/;"	method	line:30	class:RomanTest
+test_27	/Users/apickler/projects/exercism/ruby/roman-numerals/roman_numerals_test.rb	/^  def test_27$/;"	method	line:35	class:RomanTest
+test_48	/Users/apickler/projects/exercism/ruby/roman-numerals/roman_numerals_test.rb	/^  def test_48$/;"	method	line:39	class:RomanTest
+test_59	/Users/apickler/projects/exercism/ruby/roman-numerals/roman_numerals_test.rb	/^  def test_59$/;"	method	line:43	class:RomanTest
+test_93	/Users/apickler/projects/exercism/ruby/roman-numerals/roman_numerals_test.rb	/^  def test_93$/;"	method	line:47	class:RomanTest
+test_141	/Users/apickler/projects/exercism/ruby/roman-numerals/roman_numerals_test.rb	/^  def test_141$/;"	method	line:51	class:RomanTest
+test_163	/Users/apickler/projects/exercism/ruby/roman-numerals/roman_numerals_test.rb	/^  def test_163$/;"	method	line:55	class:RomanTest
+test_402	/Users/apickler/projects/exercism/ruby/roman-numerals/roman_numerals_test.rb	/^  def test_402$/;"	method	line:59	class:RomanTest
+test_575	/Users/apickler/projects/exercism/ruby/roman-numerals/roman_numerals_test.rb	/^  def test_575$/;"	method	line:63	class:RomanTest
+test_911	/Users/apickler/projects/exercism/ruby/roman-numerals/roman_numerals_test.rb	/^  def test_911$/;"	method	line:67	class:RomanTest
+test_1024	/Users/apickler/projects/exercism/ruby/roman-numerals/roman_numerals_test.rb	/^  def test_1024$/;"	method	line:71	class:RomanTest
+test_3000	/Users/apickler/projects/exercism/ruby/roman-numerals/roman_numerals_test.rb	/^  def test_3000$/;"	method	line:75	class:RomanTest
