@@ -22,6 +22,6 @@ class Robot
   end
 
   def random_digit
-    "#{SecureRandom.random_number(10)}"
+    SecureRandom.random_number(10).to_s
   end
 end
