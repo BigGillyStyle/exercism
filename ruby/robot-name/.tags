@@ -1,0 +1,14 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+Robot Name	/Users/apickler/projects/exercism/ruby/robot-name/README.md	/^# Robot Name$/;"	function	line:1
+For bonus points	/Users/apickler/projects/exercism/ruby/robot-name/README.md	/^## For bonus points$/;"	function	line:15
+Source	/Users/apickler/projects/exercism/ruby/robot-name/README.md	/^## Source$/;"	function	line:27
+RobotTest	/Users/apickler/projects/exercism/ruby/robot-name/robot_name_test.rb	/^class RobotTest < MiniTest::Unit::TestCase$/;"	class	line:4
+test_has_name	/Users/apickler/projects/exercism/ruby/robot-name/robot_name_test.rb	/^  def test_has_name$/;"	method	line:5	class:RobotTest
+test_name_sticks	/Users/apickler/projects/exercism/ruby/robot-name/robot_name_test.rb	/^  def test_name_sticks$/;"	method	line:9	class:RobotTest
+test_different_robots_have_different_names	/Users/apickler/projects/exercism/ruby/robot-name/robot_name_test.rb	/^  def test_different_robots_have_different_names$/;"	method	line:16	class:RobotTest
+test_reset_name	/Users/apickler/projects/exercism/ruby/robot-name/robot_name_test.rb	/^  def test_reset_name$/;"	method	line:21	class:RobotTest
