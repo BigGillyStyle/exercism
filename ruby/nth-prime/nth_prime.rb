@@ -1,21 +1,20 @@
 class Prime
   class << self
-    def nth(n = 1)
-      raise ArgumentError.new('Must provide an integer greater than 0') unless (n.is_a?(Fixnum) && n > 0)
+    def nth(nth_prime = 1)
+      raise ArgumentError.new('Must provide an integer greater than 0') unless (nth_prime.is_a?(Fixnum) && nth_prime > 0)
 
-      num = 1
-      i = 1
+      prime_test = 1
+      iter = 1
       begin
-        if num < 3
-          num += 1
+        if prime_test < 3
+          prime_test += 1
         else
-          num += 2
+          prime_test += 2
         end
-        i += 1 if num.is_prime?
-      end while i <= n
-      num
+        iter += 1 if prime_test.is_prime?
+      end while iter <= nth_prime
+      prime_test
     end
-
   end
 end
 
@@ -24,14 +23,14 @@ class Fixnum
     return false if self < 2
     return true if self == 2
 
-    i = 2
+    prime_divisor = 2
     upper_bound = Math.sqrt(self).to_i
-    while i <= upper_bound do
-      return false if self % i == 0
-      if i < 3
-        i += 1
+    while prime_divisor <= upper_bound do
+      return false if self % prime_divisor == 0
+      if prime_divisor < 3
+        prime_divisor += 1
       else
-        i += 2
+        prime_divisor += 2
       end
     end
 
