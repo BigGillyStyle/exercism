@@ -5,7 +5,7 @@ class Grains
     end
 
     def total
-      (1..64).to_a.map {|x| square(x)}.reduce(:+)
+      (1..64).inject {|sum, n| sum += square(n)}
     end
   end
 end
