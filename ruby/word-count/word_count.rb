@@ -1,14 +1,14 @@
 class Phrase
-  VERSION = 2
+  VERSION = 3
 
   def initialize(phrase)
     @phrase = phrase
   end
 
   def word_count
-    @phrase.downcase.scan(/(\w+'?\w+|\d+)/).inject(Hash.new(0)) do |a, e|
-      a[e[0]] += 1
-      a
-    end
+    @phrase
+      .downcase
+      .scan(/(\w+'?\w+|\d+)/)
+      .each_with_object(Hash.new(0)) { |word, acc| acc[word[0]] += 1 }
   end
 end
