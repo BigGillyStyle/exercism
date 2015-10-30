@@ -1,0 +1,32 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+BobTest	/Users/apickler/projects/exercism/ruby/bob/bob_test.rb	/^class BobTest < Minitest::Test$/;"	class	line:6
+bob	/Users/apickler/projects/exercism/ruby/bob/bob_test.rb	/^  def bob$/;"	method	line:7	class:BobTest
+feedback	/Users/apickler/projects/exercism/ruby/bob/bob_test.rb	/^  def feedback(text)$/;"	method	line:11	class:BobTest
+test_stating_something	/Users/apickler/projects/exercism/ruby/bob/bob_test.rb	/^  def test_stating_something$/;"	method	line:15	class:BobTest
+test_shouting	/Users/apickler/projects/exercism/ruby/bob/bob_test.rb	/^  def test_shouting$/;"	method	line:20	class:BobTest
+test_shouting_gibberish	/Users/apickler/projects/exercism/ruby/bob/bob_test.rb	/^  def test_shouting_gibberish$/;"	method	line:26	class:BobTest
+test_asking_a_question	/Users/apickler/projects/exercism/ruby/bob/bob_test.rb	/^  def test_asking_a_question$/;"	method	line:32	class:BobTest
+test_asking_a_numeric_question	/Users/apickler/projects/exercism/ruby/bob/bob_test.rb	/^  def test_asking_a_numeric_question$/;"	method	line:38	class:BobTest
+test_asking_gibberish	/Users/apickler/projects/exercism/ruby/bob/bob_test.rb	/^  def test_asking_gibberish$/;"	method	line:44	class:BobTest
+test_talking_forcefully	/Users/apickler/projects/exercism/ruby/bob/bob_test.rb	/^  def test_talking_forcefully$/;"	method	line:50	class:BobTest
+test_using_acronyms_in_regular_speech	/Users/apickler/projects/exercism/ruby/bob/bob_test.rb	/^  def test_using_acronyms_in_regular_speech$/;"	method	line:56	class:BobTest
+test_forceful_questions	/Users/apickler/projects/exercism/ruby/bob/bob_test.rb	/^  def test_forceful_questions$/;"	method	line:62	class:BobTest
+test_shouting_numbers	/Users/apickler/projects/exercism/ruby/bob/bob_test.rb	/^  def test_shouting_numbers$/;"	method	line:68	class:BobTest
+test_only_numbers	/Users/apickler/projects/exercism/ruby/bob/bob_test.rb	/^  def test_only_numbers$/;"	method	line:74	class:BobTest
+test_question_with_only_numbers	/Users/apickler/projects/exercism/ruby/bob/bob_test.rb	/^  def test_question_with_only_numbers$/;"	method	line:80	class:BobTest
+test_shouting_with_special_characters	/Users/apickler/projects/exercism/ruby/bob/bob_test.rb	/^  def test_shouting_with_special_characters$/;"	method	line:86	class:BobTest
+test_shouting_with_no_exclamation_mark	/Users/apickler/projects/exercism/ruby/bob/bob_test.rb	/^  def test_shouting_with_no_exclamation_mark$/;"	method	line:92	class:BobTest
+test_statement_containing_question_mark	/Users/apickler/projects/exercism/ruby/bob/bob_test.rb	/^  def test_statement_containing_question_mark$/;"	method	line:98	class:BobTest
+test_prattling_on	/Users/apickler/projects/exercism/ruby/bob/bob_test.rb	/^  def test_prattling_on$/;"	method	line:104	class:BobTest
+test_silence	/Users/apickler/projects/exercism/ruby/bob/bob_test.rb	/^  def test_silence$/;"	method	line:110	class:BobTest
+test_prolonged_silence	/Users/apickler/projects/exercism/ruby/bob/bob_test.rb	/^  def test_prolonged_silence$/;"	method	line:116	class:BobTest
+test_alternate_silences	/Users/apickler/projects/exercism/ruby/bob/bob_test.rb	/^  def test_alternate_silences$/;"	method	line:122	class:BobTest
+test_on_multiple_line_questions	/Users/apickler/projects/exercism/ruby/bob/bob_test.rb	/^  def test_on_multiple_line_questions$/;"	method	line:128	class:BobTest
+Bob	/Users/apickler/projects/exercism/ruby/bob/README.md	/^# Bob$/;"	function	line:1
+Instructions	/Users/apickler/projects/exercism/ruby/bob/README.md	/^## Instructions$/;"	function	line:14
+Source	/Users/apickler/projects/exercism/ruby/bob/README.md	/^## Source$/;"	function	line:62
