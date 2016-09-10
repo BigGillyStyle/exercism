@@ -4,10 +4,9 @@ class Hamming {
       throw new Error('DNA strands must be of equal length.');
     }
 
-    const arr1 = str1.split('');
     let distance = 0;
 
-    arr1.forEach((char, index) => {
+    [...str1].forEach((char, index) => {
       if (char !== str2[index]) {
         distance++;
       }
