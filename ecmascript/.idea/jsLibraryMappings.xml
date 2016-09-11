@@ -4,6 +4,7 @@
     <file url="file://$PROJECT_DIR$/hamming" libraries="{ecmascript/hamming/node_modules}" />
     <file url="file://$PROJECT_DIR$/hello-world" libraries="{ecmascript/hello-world/node_modules}" />
     <file url="file://$PROJECT_DIR$/leap" libraries="{ecmascript/leap/node_modules}" />
+    <file url="file://$PROJECT_DIR$/rna-transcription" libraries="{ecmascript/rna-transcription/node_modules}" />
     <includedPredefinedLibrary name="ECMAScript 6" />
   </component>
 </project>
