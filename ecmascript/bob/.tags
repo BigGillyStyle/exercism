@@ -1,0 +1,37 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+hey	/Users/apickler/projects/exercism/ecmascript/bob/bob.js	/^  hey(message) {$/;"	function	line:7
+getInputDirectory	/Users/apickler/projects/exercism/ecmascript/bob/gulpfile.js	/^function getInputDirectory(argv) {$/;"	function	line:1
+getInputDirectory	/Users/apickler/projects/exercism/ecmascript/bob/gulpfile.js	/^function getInputDirectory(argv) {$/;"	function	line:1
+getOutputDirectory	/Users/apickler/projects/exercism/ecmascript/bob/gulpfile.js	/^function getOutputDirectory(argv) {$/;"	function	line:8
+getOutputDirectory	/Users/apickler/projects/exercism/ecmascript/bob/gulpfile.js	/^function getOutputDirectory(argv) {$/;"	function	line:8
+name	/Users/apickler/projects/exercism/ecmascript/bob/package.json	/^  "name": "xecmascript",$/;"	function	line:2
+version	/Users/apickler/projects/exercism/ecmascript/bob/package.json	/^  "version": "0.0.0",$/;"	function	line:3
+description	/Users/apickler/projects/exercism/ecmascript/bob/package.json	/^  "description": "Exercism exercises in ECMAScript 6.",$/;"	function	line:4
+author	/Users/apickler/projects/exercism/ecmascript/bob/package.json	/^  "author": "Katrina Owen",$/;"	function	line:5
+private	/Users/apickler/projects/exercism/ecmascript/bob/package.json	/^  "private": true,$/;"	function	line:6
+repository	/Users/apickler/projects/exercism/ecmascript/bob/package.json	/^  "repository": {$/;"	function	line:7
+type	/Users/apickler/projects/exercism/ecmascript/bob/package.json	/^    "type": "git",$/;"	function	line:8
+url	/Users/apickler/projects/exercism/ecmascript/bob/package.json	/^    "url": "https:\/\/github.com\/exercism\/xecmascript"$/;"	function	line:9
+devDependencies	/Users/apickler/projects/exercism/ecmascript/bob/package.json	/^  "devDependencies": {$/;"	function	line:11
+babel	/Users/apickler/projects/exercism/ecmascript/bob/package.json	/^    "babel": "~5.8.29",$/;"	function	line:12
+del	/Users/apickler/projects/exercism/ecmascript/bob/package.json	/^    "del": "~2.0.2",$/;"	function	line:13
+gulp	/Users/apickler/projects/exercism/ecmascript/bob/package.json	/^    "gulp": "~3.9.0",$/;"	function	line:14
+gulp-babel	/Users/apickler/projects/exercism/ecmascript/bob/package.json	/^    "gulp-babel": "~5.3.0",$/;"	function	line:15
+gulp-eslint	/Users/apickler/projects/exercism/ecmascript/bob/package.json	/^    "gulp-eslint": "^1.1.0",$/;"	function	line:16
+gulp-jasmine	/Users/apickler/projects/exercism/ecmascript/bob/package.json	/^    "gulp-jasmine": "~2.0.1",$/;"	function	line:17
+yargs	/Users/apickler/projects/exercism/ecmascript/bob/package.json	/^    "yargs": "~3.27.0"$/;"	function	line:18
+scripts	/Users/apickler/projects/exercism/ecmascript/bob/package.json	/^  "scripts": {$/;"	function	line:20
+test	/Users/apickler/projects/exercism/ecmascript/bob/package.json	/^    "test": "gulp lint test"$/;"	function	line:21
+licenses	/Users/apickler/projects/exercism/ecmascript/bob/package.json	/^  "licenses": [$/;"	function	line:23
+dependencies	/Users/apickler/projects/exercism/ecmascript/bob/package.json	/^  "dependencies": {}$/;"	function	line:26
+Bob	/Users/apickler/projects/exercism/ecmascript/bob/README.md	/^# Bob$/;"	function	line:1
+Setup	/Users/apickler/projects/exercism/ecmascript/bob/README.md	/^## Setup$/;"	function	line:14
+Requirements	/Users/apickler/projects/exercism/ecmascript/bob/README.md	/^## Requirements$/;"	function	line:21
+Making the test suite pass	/Users/apickler/projects/exercism/ecmascript/bob/README.md	/^## Making the test suite pass$/;"	function	line:39
+Source	/Users/apickler/projects/exercism/ecmascript/bob/README.md	/^## Source$/;"	function	line:52
+Submitting Incomplete Problems	/Users/apickler/projects/exercism/ecmascript/bob/README.md	/^## Submitting Incomplete Problems$/;"	function	line:56
