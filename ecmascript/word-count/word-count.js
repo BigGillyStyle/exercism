@@ -5,14 +5,8 @@ class Words {
       return result;
     }
 
-    const words = str.trim().replace(/\n/g, ' ').replace(/\r/g, ' ').replace(/\t/g, ' ').toLowerCase().split(' ').filter(elem => elem !== ' ');
-    words.forEach((word) => {
-      if (result[word]) {
-        result[word] = result[word] + 1;
-      } else {
-        result[word] = 1;
-      }
-    });
+    const words = str.trim().toLowerCase().split(/\s+/g);
+    words.forEach(word => result[word] = (result.hasOwnProperty(word) ? result[word] : 0) + 1);
     return result;
   }
 }
