@@ -1,11 +1,14 @@
 class Gigasecond {
   constructor(date) {
-    this.date = date;
+    this.dateIn = date;
+  }
+
+  static get gigaMilliseconds() {
+    return Math.pow(10, 12);
   }
 
   date() {
-    const gigaMs = Math.pow(10, 9) * 1000;
-    return new Date(this.date.getTime() + gigaMs);
+    return new Date(this.dateIn.getTime() + Gigasecond.gigaMilliseconds);
   }
 }
 
