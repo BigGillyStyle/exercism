@@ -1,6 +1,6 @@
 class PerfectNumbers {
   classify(num) {
-    if (num < 1) throw 'Classification is only possible for natural numbers.';
+    if (!Number.isInteger(num) || num < 1) throw 'Classification is only possible for natural numbers.';
 
     const aliquotSum = this.factors(num).reduce((acc, val) => acc + val, 0);
     if (aliquotSum === num) {
