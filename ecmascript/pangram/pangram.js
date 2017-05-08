@@ -11,9 +11,7 @@ class Pangram {
     if (!this.sentence) return false;
 
     const lowerSentence = this.sentence.toLowerCase();
-    const uniqueSentenceChars = [...new Set(lowerSentence.split(''))];
-    const lowerAlphaChars = uniqueSentenceChars.filter(char => Pangram.lowerAlphaCharArray.indexOf(char) > -1)
-    return lowerAlphaChars.length === Pangram.lowerAlphaCharArray.length;
+    return Pangram.lowerAlphaCharArray.every(char => lowerSentence.includes(char));
   }
 }
 
