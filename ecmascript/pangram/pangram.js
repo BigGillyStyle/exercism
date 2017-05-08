@@ -8,8 +8,6 @@ class Pangram {
   }
 
   isPangram() {
-    if (!this.sentence) return false;
-
     const lowerSentence = this.sentence.toLowerCase();
     return Pangram.lowerAlphaCharArray.every(char => lowerSentence.includes(char));
   }
