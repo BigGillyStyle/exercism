@@ -1,15 +1,13 @@
-class Pangram {
-  static get lowerAlphaCharArray() {
-    return 'abcdefghijklmnopqrstuvwxyz'.split('');
-  }
+const lowerAlphaCharArray = 'abcdefghijklmnopqrstuvwxyz'.split('');
 
+class Pangram {
   constructor(sentence) {
     this.sentence = sentence;
   }
 
   isPangram() {
     const lowerSentence = this.sentence.toLowerCase();
-    return Pangram.lowerAlphaCharArray.every(char => lowerSentence.includes(char));
+    return lowerAlphaCharArray.every(char => lowerSentence.includes(char));
   }
 }
 
