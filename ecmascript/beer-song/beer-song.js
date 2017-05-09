@@ -1,6 +1,6 @@
 class Beer {
   static verse(bottleNum) {
-    return `${Beer.numToBottleString(bottleNum, true)} of beer on the wall, ${Beer.numToBottleString(bottleNum)} of beer.
+    return `${Beer.firstSentence(bottleNum)}
 ${Beer.secondSentence(bottleNum)}
 `;
   }
@@ -9,6 +9,10 @@ ${Beer.secondSentence(bottleNum)}
     const word = startOfPhrase ? 'No' : 'no'
     const num = bottleNum > 0 ? bottleNum : `${word} more`;
     return `${num} bottle${num !== 1 ? 's' : ''}`;
+  }
+
+  static firstSentence(bottleNum) {
+    return `${Beer.numToBottleString(bottleNum, true)} of beer on the wall, ${Beer.numToBottleString(bottleNum)} of beer.`;
   }
 
   static secondSentence(bottleNum) {
