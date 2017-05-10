@@ -1,4 +1,4 @@
 exercism
 ========
 
-This is my "documentation" of my progress through the various exercises on [exercism.io](http://exercism.io).
+This is my "documentation" of my progress through the various exercises on [exercism.io](http://exercism.io/BigGillyStyle).
