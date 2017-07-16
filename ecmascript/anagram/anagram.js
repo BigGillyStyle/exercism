@@ -3,7 +3,9 @@ export default class Anagram {
     this.word = word;
   }
 
-  matches(list) {
+  matches(...list) {
+    if (Array.isArray(list[0])) list = list[0];
+
     const sortedWord = this.word.toLowerCase().split('').sort().join('');
     return list.filter(item => {
       const sortedItem = item.toLowerCase().split('').sort().join('');
